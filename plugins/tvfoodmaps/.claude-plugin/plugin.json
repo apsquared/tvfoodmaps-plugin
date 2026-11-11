@@ -1,0 +1,19 @@
+{
+  "name": "tvfoodmaps",
+  "displayName": "TVFoodMaps",
+  "version": "1.0.0",
+  "description": "Find restaurants featured on food TV shows by city, show or cuisine, see the recorded episodes behind each one, and build a shortlist of food stops for a trip.",
+  "author": {
+    "name": "APSquared LLC",
+    "url": "https://www.tvfoodmaps.com"
+  },
+  "homepage": "https://www.tvfoodmaps.com/mcp/setup#free",
+  "repository": "https://github.com/apsquared/tvfoodmaps-plugin",
+  "license": "MIT",
+  "keywords": ["restaurants", "food-tv", "travel", "dining", "road-trip"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.tvfoodmaps.com/mcp/setup#free",
+  "supportUrl": "https://www.tvfoodmaps.com/contact-us",
+  "privacyPolicyUrl": "https://www.tvfoodmaps.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.tvfoodmaps.com/tos"
+}

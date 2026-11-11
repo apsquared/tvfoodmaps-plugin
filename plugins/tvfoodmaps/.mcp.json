@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tvfoodmaps": {
+      "type": "http",
+      "url": "https://www.tvfoodmaps.com/claude/mcp"
+    }
+  }
+}
